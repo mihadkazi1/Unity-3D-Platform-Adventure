@@ -68,7 +68,29 @@ The player must collect all required coins before the key becomes available.
 
 ## 📸 Screenshots
 
-Screenshots and gameplay media will be added soon.
+### 🎮 Start Menu
+
+![Start Menu](Start_Menu.png)
+
+### 🕹️ Gameplay
+
+![Gameplay](gameplay.png)
+
+### 🪙 Coin Collection
+
+![Coin Collection](coin-collection.png)
+
+### 🔑 Key System
+
+![Key System](key-system.png)
+
+### 🏆 Victory
+
+![Victory](victory.png)
+
+### ☠️ Game Over
+
+![Game Over](game-over.png)
 
 ---
 
